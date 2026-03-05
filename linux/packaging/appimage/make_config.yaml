@@ -1,0 +1,16 @@
+display_name: Hello World
+
+icon: assets/icon512.png
+
+keywords:
+  - Hello
+  - World
+  - Test
+  - Application
+
+generic_name: Cool Application
+
+categories:
+  - Music
+
+startup_notify: true
