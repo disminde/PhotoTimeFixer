@@ -112,7 +112,7 @@ flutter doctor
 ```bash
 # 克隆项目
 git clone <repository-url>
-cd flutter_demo
+cd photo_time_fixer
 
 # 安装依赖
 flutter pub get

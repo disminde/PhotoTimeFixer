@@ -9,9 +9,9 @@ on:
   workflow_dispatch: # 允许手动触发
 
 env:
-  FLUTTER_VERSION: '3.38.3'
-  APP_NAME: 'FTimeFixer'
-  APP_ID: com.emeric.ftimefixer
+  FLUTTER_VERSION: '3.24.5'
+  APP_NAME: 'PhotoTimeFixer'
+  APP_ID: com.disminde.photo_time_fixer
   RELEASE_NAME: "Release ${{ github.ref_name }}"
 
 jobs:
